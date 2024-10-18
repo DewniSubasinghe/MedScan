@@ -1,0 +1,4 @@
+C:/Users/Admin/OneDrive/Desktop/newtry/SDGP-Y04-02/BACKEND/medscan_model.h5 filter=lfs diff=lfs merge=lfs -text
+/BACKEND/medscan_model.h5 filter=lfs diff=lfs merge=lfs -text
+BACKEND/medscan_model.h5 filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,18 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+//MedScan-deep-learning-model/translation_key.json
+# dependencies
+/medscan-sdgp/node_modules
+
+# testing
+/medscan-sdgp/coverage
+
+# production
+/medscan-sdgp/build
+
+# misc
+
+
+/medscan-sdgp/npm-debug.log*
+/medscan-sdgp/yarn-debug.log*
+/medscan-sdgp/yarn-error.log*
+/test
